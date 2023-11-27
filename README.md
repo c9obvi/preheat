@@ -49,19 +49,20 @@ Execute the script:
 
 Built With
 
-Node.js - The JavaScript runtime
-Flask - The web framework used
-BeautifulSoup - Library for parsing HTML and XML documents
-Selenium - Tool for automated web testing
+- Node.js - The JavaScript runtime
+- Flask - The web framework used
+- BeautifulSoup - Library for parsing HTML and XML documents
+- Selenium - Tool for automated web testing
+---
 Authors
-
+---
 0xBerto - Initial work - @c9obvi on Github
 License:
 
 This project is licensed under the MIT License - see the LICENSE.md file for details
 
-Acknowledgments
+---
 
 Hat tip to anyone whose code was used
-Inspiration
-etc
+
+thank you
