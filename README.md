@@ -19,7 +19,7 @@ What things you need to install the software:
 
 A step-by-step series of examples that tell you how to get a development environment running:
 
-1. **Clone the Repository**
+**Clone the Repository**
 
    First, clone this repository to your Raspberry Pi:
 
