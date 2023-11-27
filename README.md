@@ -26,3 +26,42 @@ A step-by-step series of examples that tell you how to get a development environ
    ```bash
    git clone https://github.com/c9obvi/preheat-pi.git
    ```
+Navigate to the Script
+Change to the directory containing the script:
+```
+cd [repository-name]
+
+```
+Make the Script Executable
+Make setup.sh executable:
+```
+chmod +x setup.sh
+
+```
+
+Run the Setup Script
+Execute the script:
+
+```
+./setup.sh
+
+```
+
+Built With
+
+Node.js - The JavaScript runtime
+Flask - The web framework used
+BeautifulSoup - Library for parsing HTML and XML documents
+Selenium - Tool for automated web testing
+Authors
+
+0xBerto - Initial work - @c9obvi on Github
+License:
+
+This project is licensed under the MIT License - see the LICENSE.md file for details
+
+Acknowledgments
+
+Hat tip to anyone whose code was used
+Inspiration
+etc
