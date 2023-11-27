@@ -24,4 +24,5 @@ A step-by-step series of examples that tell you how to get a development environ
    First, clone this repository to your Raspberry Pi:
 
    ```bash
-   git clone [URL to this repo]
+   git clone https://github.com/c9obvi/preheat-pi.git
+   ```
