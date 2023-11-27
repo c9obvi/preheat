@@ -29,7 +29,7 @@ A step-by-step series of examples that tell you how to get a development environ
 Navigate to the Script
 Change to the directory containing the script:
 ```
-cd [repository-name]
+cd preheat-pi/
 
 ```
 Make the Script Executable
