@@ -12,7 +12,8 @@ sudo apt-get install git -y
 # Install Node.js
 echo "*****Installing Node.js..."
 curl -sL https://deb.nodesource.com/setup_14.x | sudo -E bash -
-sudo apt-get install nodejs -y
+sudo apt-get install -y nodejs
+
 
 # Install Python3 and pip (if not already installed)
 echo "*****Installing Python3 and pip..."
