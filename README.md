@@ -1,5 +1,5 @@
 # Raspberry Pi Setup Script
-![](https://maeebnvejslkonktbeha.supabase.co/storage/v1/object/public/cdn/IMG_1227.webp)
+![](https://maeebnvejslkonktbeha.supabase.co/storage/v1/object/public/cdn/IMG_1227.webpcdn/IMG_1227.webp)
 
 ## preheat-pi
 a little oven preheat for my Pi's to setup faster. 
